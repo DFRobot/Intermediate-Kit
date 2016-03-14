@@ -10,22 +10,22 @@ Contains the Following:
 
 Lessons Include:
 
-01 An Introduction to Arduino
-02 How Does a Device "Think"?
-03 Analog and Digital Signals
-04 Make an LED Blink
-05 Sensor Light
-06 Mini Lamp
-07 Sound Activated LED
-08 Fading LED
-09 Light Regulator
-10 Electronic Drum Kit
-11 Fire Alarm
-12 Temperature and Humidity Sensor
-13 Open Sesame!
-14 Pandora's Box
-15 Remote Control LED
-16 Digital Dice
+01 An Introduction to Arduino<br>
+02 How Does a Device "Think"?<br>
+03 Analog and Digital Signals<br>
+04 Make an LED Blink<br>
+05 Sensor Light<br>
+06 Mini Lamp<br>
+07 Sound Activated LED<br>
+08 Fading LED<br>
+09 Light Regulator<br>
+10 Electronic Drum Kit<br>
+11 Fire Alarm<br>
+12 Temperature and Humidity Sensor<br>
+13 Open Sesame!<br>
+14 Pandora's Box<br>
+15 Remote Control LED<br>
+16 Digital Dice<br>
 
 [Get the Kit here] (http://www.dfrobot.com/index.php?route=product/product&product_id=1242&search=kit0018&description=true#.VuY0ovmqqAw)
 
